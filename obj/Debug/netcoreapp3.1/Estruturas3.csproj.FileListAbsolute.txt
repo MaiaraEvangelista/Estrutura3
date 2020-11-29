@@ -1,0 +1,26 @@
+/home/maiara/Área de Trabalho/Estruturas/Estruturas3/bin/Debug/netcoreapp3.1/Estruturas3
+/home/maiara/Área de Trabalho/Estruturas/Estruturas3/bin/Debug/netcoreapp3.1/Estruturas3.deps.json
+/home/maiara/Área de Trabalho/Estruturas/Estruturas3/bin/Debug/netcoreapp3.1/Estruturas3.runtimeconfig.json
+/home/maiara/Área de Trabalho/Estruturas/Estruturas3/bin/Debug/netcoreapp3.1/Estruturas3.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/Estruturas/Estruturas3/bin/Debug/netcoreapp3.1/Estruturas3.dll
+/home/maiara/Área de Trabalho/Estruturas/Estruturas3/bin/Debug/netcoreapp3.1/Estruturas3.pdb
+/home/maiara/Área de Trabalho/Estruturas/Estruturas3/obj/Debug/netcoreapp3.1/Estruturas3.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/Estruturas/Estruturas3/obj/Debug/netcoreapp3.1/Estruturas3.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/Estruturas/Estruturas3/obj/Debug/netcoreapp3.1/Estruturas3.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/Estruturas/Estruturas3/obj/Debug/netcoreapp3.1/Estruturas3.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/Estruturas/Estruturas3/obj/Debug/netcoreapp3.1/Estruturas3.dll
+/home/maiara/Área de Trabalho/Estruturas/Estruturas3/obj/Debug/netcoreapp3.1/Estruturas3.pdb
+/home/maiara/Área de Trabalho/Estruturas/Estruturas3/obj/Debug/netcoreapp3.1/Estruturas3.genruntimeconfig.cache
+/home/maiara/Área de Trabalho/Backend C#/Estruturas/Estruturas3/bin/Debug/netcoreapp3.1/Estruturas3
+/home/maiara/Área de Trabalho/Backend C#/Estruturas/Estruturas3/bin/Debug/netcoreapp3.1/Estruturas3.deps.json
+/home/maiara/Área de Trabalho/Backend C#/Estruturas/Estruturas3/bin/Debug/netcoreapp3.1/Estruturas3.runtimeconfig.json
+/home/maiara/Área de Trabalho/Backend C#/Estruturas/Estruturas3/bin/Debug/netcoreapp3.1/Estruturas3.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/Backend C#/Estruturas/Estruturas3/bin/Debug/netcoreapp3.1/Estruturas3.dll
+/home/maiara/Área de Trabalho/Backend C#/Estruturas/Estruturas3/bin/Debug/netcoreapp3.1/Estruturas3.pdb
+/home/maiara/Área de Trabalho/Backend C#/Estruturas/Estruturas3/obj/Debug/netcoreapp3.1/Estruturas3.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/Backend C#/Estruturas/Estruturas3/obj/Debug/netcoreapp3.1/Estruturas3.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/Backend C#/Estruturas/Estruturas3/obj/Debug/netcoreapp3.1/Estruturas3.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/Backend C#/Estruturas/Estruturas3/obj/Debug/netcoreapp3.1/Estruturas3.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/Backend C#/Estruturas/Estruturas3/obj/Debug/netcoreapp3.1/Estruturas3.dll
+/home/maiara/Área de Trabalho/Backend C#/Estruturas/Estruturas3/obj/Debug/netcoreapp3.1/Estruturas3.pdb
+/home/maiara/Área de Trabalho/Backend C#/Estruturas/Estruturas3/obj/Debug/netcoreapp3.1/Estruturas3.genruntimeconfig.cache
